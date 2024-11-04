@@ -3,6 +3,21 @@ entries:
   hub-promyze:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2024-11-04T19:12:49.620500227Z"
+    description: Hub Promyze - Public hub to share your coding practices with Promyze
+    digest: b9cef50a008bd5de66028e8cda0969500c8563275da59a018e1b7463f34798a9
+    home: https://github.com/promyze/helm-charts
+    icon: https://promyze.com/wp-content/uploads/promyze-rocket.png
+    maintainers:
+    - email: cedric.teyton@promyze.com
+      name: cteyton
+    name: hub-promyze
+    type: application
+    urls:
+    - https://github.com/zanettibo/helm-charts/releases/download/hub-promyze-1.0.2/hub-promyze-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2023-05-22T10:47:18.487101162Z"
     description: Hub Promyze - Public hub to share your coding practices with Promyze
     digest: d652e63547bad98912bb835a312b2fba4b11e6a017903843a4ee0dc7c2c9f288
@@ -47,6 +62,21 @@ entries:
     urls:
     - https://github.com/promyze/helm-charts/releases/download/promyze-1.2.0-dev/promyze-1.2.0-dev.tgz
     version: 1.2.0-dev
+  - apiVersion: v2
+    appVersion: 5.1.0
+    created: "2024-11-04T19:12:49.723976464Z"
+    description: Elevate developers and code with Packmind
+    digest: 3927526a776a80bae2b0dcb9bd2c045b6a4a0450a9a33cc2e44f012713d1230e
+    home: https://github.com/promyze/helm-charts
+    icon: https://packmind.com/wp-content/uploads/2024/01/LogoMark_Packmind.png
+    maintainers:
+    - email: cedric.teyton@packmind.com
+      name: cteyton
+    name: promyze
+    type: application
+    urls:
+    - https://github.com/zanettibo/helm-charts/releases/download/promyze-1.1.2/promyze-1.1.2.tgz
+    version: 1.1.2
   - apiVersion: v2
     appVersion: 5.1.0
     created: "2024-09-03T18:46:46.305523477Z"
@@ -421,4 +451,4 @@ entries:
     urls:
     - https://github.com/promyze/helm-charts/releases/download/promyze-0.1.0/promyze-0.1.0.tgz
     version: 0.1.0
-generated: "2024-09-10T13:13:21.78195303Z"
+generated: "2024-11-04T19:12:49.724188468Z"
